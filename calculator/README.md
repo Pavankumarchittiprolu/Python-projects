@@ -24,8 +24,8 @@ The application supports basic arithmetic operations such as addition, subtracti
 </ul>
 
 ## How to Run:
-1.Clone the repository to your local machine./
-2.Run the Python file (basic_calculator.py or equivalent) to launch the calculator application.
+1. Clone the repository to your local machine.
+2. Run the Python file (basic_calculator.py or equivalent) to launch the calculator application.
 
 <hr>
 Feel free to modify or expand this as needed, depending on the specific features of your calculator!
