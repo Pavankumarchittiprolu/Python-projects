@@ -5,7 +5,7 @@ and store employee information in a structured manner. The system provides a gra
 where users can easily perform operations like adding, updating, deleting, and viewing employee details. The backend database is 
 powered by MySQL to securely store and manage employee records.
 
-<p align='left>
+<p align='left'>
   <img src="https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Employee%20System.png">
   <img src="https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Add%20Employee.png">
   </p>
