@@ -5,11 +5,6 @@ and store employee information in a structured manner. The system provides a gra
 where users can easily perform operations like adding, updating, deleting, and viewing employee details. The backend database is 
 powered by MySQL to securely store and manage employee records.
 
-<p align='left'>
-  <img src="https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Employee%20System.png">
-  <img src="https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Add%20Employee.png">
-  </p>
-
 ## Features:
 <ul>
  <li>Add Employee: Add new employee details like EmployeeId,name,job, salary.</li>
@@ -46,5 +41,14 @@ powered by MySQL to securely store and manage employee records.
 You can customize the details according to the specifics of your project, like th exact
 functionality, database schema, or any additional features you might have included.
 
-
-
+<p align='left'>
+  <img src="https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Employee%20System.png">
+  <img src='https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/View%20Employee.png'>
+  </p>
+<p align='left'>
+<img src='https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Add%20Employee.png'>
+  <img src='https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Update%20Employee.png'>
+</p>
+<p align='center'>
+  <img src='https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/emp_system/Delete%20Employee.png'>
+</p>
