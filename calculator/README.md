@@ -3,6 +3,12 @@
 This is a simple calculator application developed using  using Python and the Tkinter library for building graphical user interfaces (GUIs)./
 The application supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Here is the output
+
+<p align='center'>
+  <img src="https://github.com/Pavankumarchittiprolu/Python-projects/blob/main/calculator/Basic%20calculator.png">
+</p>
+
 ## Features:
 <ul>
   <li>Perform basic calculations (addition, subtraction, multiplication, division).</li>
@@ -18,7 +24,7 @@ The application supports basic arithmetic operations such as addition, subtracti
 </ul>
 
 ## How to Run:
-1.Clone the repository to your local machine.
+1.Clone the repository to your local machine./
 2.Run the Python file (basic_calculator.py or equivalent) to launch the calculator application.
 
 <hr>
